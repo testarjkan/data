@@ -1,0 +1,11 @@
+C   -> P,M,U,H,R
+F   -> Q,G,N,E,U
+G   -> J,D,L,Z,T
+M   -> X,Y,O,R,H
+S   -> A,Q,E,L,D
+T   -> Q,D,F,T,W
+I   -> X,H,R,V,B
+B   -> Q,F,K,Y,S
+E   -> R,C,P,B,N
+N   -> C,M,K,W,O
+
